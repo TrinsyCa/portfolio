@@ -9,7 +9,7 @@
 
   @include('articles.meta')
 
-  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}?v={{ filemtime(public_path('assets/css/style.css')) }}">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -37,7 +37,7 @@
   <!--
     - custom js link
   -->
-  <script src="./assets/js/script.js"></script>
+  <script src="{{ asset('assets/js/script.js') }}?v={{ filemtime(public_path('assets/js/script.js')) }}"></script>
 
   <!--
     - ionicon link
