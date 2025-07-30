@@ -91,6 +91,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/ben-kimim.webp') }}" alt="Ben Kimim?" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/ben-kimim.webp') }}" alt="Ben Kimim?" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Ben Kimim? <g>(WIP)</g></h3>
@@ -109,6 +110,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/green-peace-hotel.webp') }}" alt="Green Peace Hotel" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/green-peace-hotel.webp') }}" alt="Green Peace Hotel" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Green Peace Hotel</h3>
@@ -127,6 +129,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/bist-bilisim.webp') }}" alt="Bist Bilişim" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/bist-bilisim.webp') }}" alt="Bist Bilişim" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Bist Bilişim</h3>
@@ -145,6 +148,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/cool-travel-istanbul.webp') }}" alt="Cool Travel Istanbul" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/cool-travel-istanbul.webp') }}" alt="Cool Travel Istanbul" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Cool Travel Istanbul</h3>
@@ -163,6 +167,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/feliz-beautyland.webp') }}" alt="Feliz Beautyland" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/feliz-beautyland.webp') }}" alt="Feliz Beautyland" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Feliz Beautyland</h3>
@@ -181,6 +186,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/cool-travel-istanbul-products.webp') }}" alt="Cool Travel Istanbul Products" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/cool-travel-istanbul-products.webp') }}" alt="Cool Travel Istanbul Products" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Cool Travel Istanbul Products</h3>
@@ -199,6 +205,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/istanbul-city-tours.webp') }}" alt="Istanbul City Tours" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/istanbul-city-tours.webp') }}" alt="Istanbul City Tours" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Istanbul City Tours</h3>
@@ -217,6 +224,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/spayai.webp') }}" alt="SpayAI" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/spayai.webp') }}" alt="SpayAI" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">SpayAI</h3>
@@ -235,6 +243,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/healthcare.webp') }}" alt="HealthCare" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/healthcare.webp') }}" alt="HealthCare" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">HealthCare</h3>
@@ -253,6 +262,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/seval-sirakaya.webp') }}" alt="Seval Sırakaya" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/seval-sirakaya.webp') }}" alt="Seval Sırakaya" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Seval Sırakaya</h3>
@@ -271,6 +281,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/bevella-makrome.webp') }}" alt="Bevella Makrome" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/bevella-makrome.webp') }}" alt="Bevella Makrome" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Bevella Makrome</h3>
@@ -289,6 +300,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/whatsapp-linker.webp') }}" alt="WhatsApp Linker" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/whatsapp-linker.webp') }}" alt="WhatsApp Linker" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">WhatsApp Linker</h3>
@@ -307,6 +319,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/age-counter.webp') }}" alt="Age Counter" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/age-counter.webp') }}" alt="Age Counter" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Age Counter</h3>
@@ -325,11 +338,12 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/jumper-cube.webp') }}" alt="Jumper Cube" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/jumper-cube.webp') }}" alt="Jumper Cube" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Jumper Cube</h3>
 
-                <p class="project-category">Web development</p>
+                <p class="project-category">Game development</p>
 
               </a>
             </li>
@@ -343,6 +357,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/trinsytodo.webp') }}" alt="TrinsyTodo" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/trinsytodo.webp') }}" alt="TrinsyTodo" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">TrinsyTodo</h3>
@@ -361,6 +376,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/trinsyblog.webp') }}" alt="TrinsyBlog" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/trinsyblog.webp') }}" alt="TrinsyBlog" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">TrinsyBlog</h3>
@@ -379,6 +395,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/file-bridge.webp') }}" alt="File Bridge" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/file-bridge.webp') }}" alt="File Bridge" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">File Bridge</h3>
@@ -397,6 +414,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/currency-converter.webp') }}" alt="Currency Converter" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/currency-converter.webp') }}" alt="Currency Converter" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Currency Converter</h3>
@@ -415,6 +433,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/calculator.webp') }}" alt="Calculator" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/calculator.webp') }}" alt="Calculator" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Calculator</h3>
@@ -433,6 +452,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/police-vs-taxi.webp') }}" alt="Police vs Taxi" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/police-vs-taxi.webp') }}" alt="Police vs Taxi" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Police vs Taxi</h3>
@@ -451,6 +471,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/coca-cola.webp') }}" alt="Coca Cola" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/coca-cola.webp') }}" alt="Coca Cola" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Coca Cola</h3>
@@ -469,6 +490,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">PHP Router</h3>
@@ -487,6 +509,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">XAMPP Router</h3>
@@ -505,6 +528,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Single Liner</h3>
@@ -523,6 +547,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Trizola Legacy Version</h3>
@@ -541,6 +566,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Dynamic UUID</h3>
@@ -559,6 +585,7 @@
                   </div>
 
                   <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <h3 class="project-title">Google Currency CURL</h3>

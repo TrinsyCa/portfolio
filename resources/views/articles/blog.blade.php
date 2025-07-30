@@ -17,6 +17,7 @@
 
                 <figure class="blog-banner-box">
                   <img src="https://miro.medium.com/v2/resize:fit:400/0*MzgtPEzP6hcJVuav.png" alt="Docker" loading="lazy">
+                  <img src="https://miro.medium.com/v2/resize:fit:400/0*MzgtPEzP6hcJVuav.png" alt="Docker" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <div class="blog-content">
@@ -45,6 +46,7 @@
 
                 <figure class="blog-banner-box">
                   <img src="https://zeka-oyunlari.s3-eu-west-1.amazonaws.com/s7753h76d4139f2b37dc64a474e336efd3990a1dfa2f55.?1681148724" alt="ChatGPT" loading="lazy">
+                  <img src="https://zeka-oyunlari.s3-eu-west-1.amazonaws.com/s7753h76d4139f2b37dc64a474e336efd3990a1dfa2f55.?1681148724" alt="ChatGPT" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <div class="blog-content">
@@ -73,6 +75,7 @@
 
                 <figure class="blog-banner-box">
                   <img src="https://ares.shiftdelete.net/2023/03/Windows-11-fotograflar.jpg" alt="Windows" loading="lazy">
+                  <img src="https://ares.shiftdelete.net/2023/03/Windows-11-fotograflar.jpg" alt="Windows" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <div class="blog-content">
@@ -101,6 +104,7 @@
 
                 <figure class="blog-banner-box">
                   <img src="https://ares.shiftdelete.net/2023/04/windows-11-kullanici-gizliligi-odakli-hale-geliyor.jpg" alt="Windows" loading="lazy">
+                  <img src="https://ares.shiftdelete.net/2023/04/windows-11-kullanici-gizliligi-odakli-hale-geliyor.jpg" alt="Windows" loading="lazy" class="project-bg-cover">
                 </figure>
 
                 <div class="blog-content">
