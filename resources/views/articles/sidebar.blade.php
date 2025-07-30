@@ -92,9 +92,15 @@
 
         <ul class="social-list">
 
+            <li class="social-item">
+            <a href="https://instagram.com/trinsyca" class="social-link">
+              <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+          </li>
+
           <li class="social-item">
-            <a href="https://facebook.com/trinsyca" class="social-link">
-              <ion-icon name="logo-facebook"></ion-icon>
+            <a href="https://linkedin/in/trinsyca" class="social-link">
+              <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
 
@@ -105,8 +111,8 @@
           </li>
 
           <li class="social-item">
-            <a href="https://instagram.com/trinsyca" class="social-link">
-              <ion-icon name="logo-instagram"></ion-icon>
+            <a href="https://facebook.com/trinsyca" class="social-link">
+              <ion-icon name="logo-facebook"></ion-icon>
             </a>
           </li>
 
