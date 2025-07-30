@@ -83,7 +83,7 @@
           <ul class="project-list">
 
             <li class="project-item  active" data-filter-item data-category="browser game">
-              <a href="https://benkimim.trinsy.ca" target="_blank" rel="nofollow">
+              <a href="https://benkimim.trinsy.ca" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -102,7 +102,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://greenpeacehotelalanya.com" target="_blank" rel="nofollow">
+              <a href="https://greenpeacehotelalanya.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -121,7 +121,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://greenpeacehotelalanya.com" target="_blank" rel="nofollow">
+              <a href="https://greenpeacehotelalanya.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -140,7 +140,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://cooltravelistanbul.com" target="_blank" rel="nofollow">
+              <a href="https://cooltravelistanbul.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -159,7 +159,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://felizbeautyland.com" target="_blank" rel="nofollow">
+              <a href="https://felizbeautyland.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -178,7 +178,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://cooltravelistanbul.com" target="_blank" rel="nofollow">
+              <a href="https://cooltravelistanbul.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -197,7 +197,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://istanbulcitytours.us/" target="_blank" rel="nofollow">
+              <a href="https://istanbulcitytours.us/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -216,7 +216,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://project.trinsy.ca/SpayAI" target="_blank" rel="nofollow">
+              <a href="https://project.trinsy.ca/SpayAI" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -235,7 +235,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://project.trinsy.ca/HealthCare/v2/" target="_blank" rel="nofollow">
+              <a href="https://project.trinsy.ca/HealthCare/v2/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -254,7 +254,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://sevalsirakaya.com" target="_blank" rel="nofollow">
+              <a href="https://sevalsirakaya.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -273,7 +273,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://sevalsirakaya.com" target="_blank" rel="nofollow">
+              <a href="https://sevalsirakaya.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -292,7 +292,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://tour.cooltravelistanbul.com/905301267153" target="_blank" rel="nofollow">
+              <a href="https://tour.cooltravelistanbul.com/905301267153" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -311,7 +311,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://age.trinsy.ca/" target="_blank" rel="nofollow">
+              <a href="https://age.trinsy.ca/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -330,7 +330,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="game development">
-              <a href="https://trinsyca.itch.io/jumpercube" target="_blank" rel="nofollow">
+              <a href="https://trinsyca.itch.io/jumpercube" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -349,7 +349,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web basics">
-              <a href="https://todo.trinsy.ca" target="_blank" rel="nofollow">
+              <a href="https://todo.trinsy.ca" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -368,7 +368,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web basics">
-              <a href="https://blog.trinsyca.com" target="_blank" rel="nofollow">
+              <a href="https://blog.trinsyca.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -387,7 +387,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web basics">
-              <a href="https://file.trinsy.ca" target="_blank" rel="nofollow">
+              <a href="https://file.trinsy.ca" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -406,7 +406,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web basics">
-              <a href="https://project.trinsy.ca/Doviz/" target="_blank" rel="nofollow">
+              <a href="https://project.trinsy.ca/Doviz/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -425,7 +425,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web basics">
-              <a href="https://project.trinsy.ca/Doviz/" target="_blank" rel="nofollow">
+              <a href="https://project.trinsy.ca/Doviz/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -444,7 +444,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web basics">
-              <a href="https://project.trinsy.ca/Polis-vs-Taksi/" target="_blank" rel="nofollow">
+              <a href="https://project.trinsy.ca/Polis-vs-Taksi/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -463,7 +463,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web basics">
-              <a href="https://project.trinsy.ca/Coca-Cola/" target="_blank" rel="nofollow">
+              <a href="https://project.trinsy.ca/Coca-Cola/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -482,7 +482,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="github">
-              <a href="https://github.com/TrinsyCa/php-router" target="_blank" rel="nofollow">
+              <a href="https://github.com/TrinsyCa/php-router" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -501,7 +501,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="github">
-              <a href="https://github.com/TrinsyCa/XAMPP-Router" target="_blank" rel="nofollow">
+              <a href="https://github.com/TrinsyCa/XAMPP-Router" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -520,7 +520,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="github">
-              <a href="https://github.com/TrinsyCa/Single-Liner" target="_blank" rel="nofollow">
+              <a href="https://github.com/TrinsyCa/Single-Liner" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -539,7 +539,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="github">
-              <a href="https://github.com/Trinsy/Trizola-LegacyVersion" target="_blank" rel="nofollow">
+              <a href="https://github.com/Trinsy/Trizola-LegacyVersion" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -558,7 +558,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="github">
-              <a href="https://github.com/TrinsyCa/Dynamic-UUID" target="_blank" rel="nofollow">
+              <a href="https://github.com/TrinsyCa/Dynamic-UUID" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -577,7 +577,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="github">
-              <a href="https://github.com/TrinsyCa/google-currency-curl" target="_blank" rel="nofollow">
+              <a href="https://github.com/TrinsyCa/google-currency-curl" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">

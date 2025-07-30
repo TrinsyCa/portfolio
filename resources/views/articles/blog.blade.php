@@ -13,7 +13,7 @@
           <ul class="blog-posts-list">
 
             <li class="blog-post-item">
-              <a href="https://blog.trinsyca.com/p/veri-tabani-icin-laravel-docker-kurulumu" target="_blank" rel="nofollow">
+              <a href="https://blog.trinsyca.com/p/veri-tabani-icin-laravel-docker-kurulumu" target="_blank">
 
                 <figure class="blog-banner-box">
                   <img src="https://miro.medium.com/v2/resize:fit:400/0*MzgtPEzP6hcJVuav.png" alt="Docker" loading="lazy">
@@ -42,7 +42,7 @@
             </li>
 
             <li class="blog-post-item">
-              <a href="https://blog.trinsyca.com/p/sosyal-medya-sitesi-icin-gereken-diller-chatgpt" target="_blank" rel="nofollow">
+              <a href="https://blog.trinsyca.com/p/sosyal-medya-sitesi-icin-gereken-diller-chatgpt" target="_blank">
 
                 <figure class="blog-banner-box">
                   <img src="https://zeka-oyunlari.s3-eu-west-1.amazonaws.com/s7753h76d4139f2b37dc64a474e336efd3990a1dfa2f55.?1681148724" alt="ChatGPT" loading="lazy">
@@ -71,7 +71,7 @@
             </li>
 
             <li class="blog-post-item">
-              <a href="https://blog.trinsyca.com/p/windows-11-de-fotograflar-uygulamasi-tamamen-degisti-iste-yeni-ozellikler" target="_blank" rel="nofollow">
+              <a href="https://blog.trinsyca.com/p/windows-11-de-fotograflar-uygulamasi-tamamen-degisti-iste-yeni-ozellikler" target="_blank">
 
                 <figure class="blog-banner-box">
                   <img src="https://ares.shiftdelete.net/2023/03/Windows-11-fotograflar.jpg" alt="Windows" loading="lazy">
@@ -100,7 +100,7 @@
             </li>
 
             <li class="blog-post-item">
-              <a href="https://blog.trinsyca.com/p/bir-devrin-sonu-windows-10-icin-destek-bitiyor" target="_blank" rel="nofollow">
+              <a href="https://blog.trinsyca.com/p/bir-devrin-sonu-windows-10-icin-destek-bitiyor" target="_blank">
 
                 <figure class="blog-banner-box">
                   <img src="https://ares.shiftdelete.net/2023/04/windows-11-kullanici-gizliligi-odakli-hale-geliyor.jpg" alt="Windows" loading="lazy">
