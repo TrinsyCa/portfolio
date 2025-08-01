@@ -159,6 +159,25 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="https://taxi.trinsy.ca" target="_blank">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="{{ asset('assets/project-cover/taxi-system.webp') }}" alt="Taxi Booking System" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/taxi-system.webp') }}" alt="Taxi Booking System" loading="lazy" class="project-bg-cover">
+                </figure>
+
+                <h3 class="project-title">Taxi Booking System</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
               <a href="https://felizbeautyland.com" target="_blank">
 
                 <figure class="project-img">
