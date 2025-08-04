@@ -53,7 +53,7 @@
             <div class="contact-info">
               <p class="contact-title">Phone</p>
 
-              <a href="tg://msg?text=Merhaba&to=+905301267153" class="contact-link">t.me/trinsyca</a>
+              <a href="https://wa.me/905396159353" class="contact-link">+90 (539) 126 71 53</a>
             </div>
 
           </li>
