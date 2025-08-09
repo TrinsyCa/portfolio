@@ -8,7 +8,7 @@
 <meta property="og:site_name" content="Ömer İslamoğlu Portfolio Website">
 <meta property="og:url" content="trinsy.ca">
 <meta property="og:type" content="article">
-<meta property="og:image" content="{{ asset('assets/images/omer-islamoglu-icon.webp') }}">
+<meta property="og:image" content="{{ asset('assets/images/logo.webp') }}">
 <meta property="card" content="summary_large_image">
 <meta property="og:card" content="summary_large_image">
 <meta name="twitter:card" content="summary_large_image">
