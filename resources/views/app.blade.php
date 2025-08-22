@@ -9,11 +9,7 @@
 
   @include('articles.meta')
 
-  <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}?v={{ filemtime(public_path('assets/css/style.css')) }}">
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ asset('assets/css/style.min.css') }}?v={{ filemtime(public_path('assets/css/style.min.css')) }}
 </head>
 
 <body>
@@ -37,7 +33,7 @@
   <!--
     - custom js link
   -->
-  <script src="{{ asset('assets/js/script.js') }}?v={{ filemtime(public_path('assets/js/script.js')) }}"></script>
+  <script src="{{ asset('assets/js/script.min.js') }}?v={{ filemtime(public_path('assets/js/script.min.js')) }}"></script>
 
   <!--
     - ionicon link

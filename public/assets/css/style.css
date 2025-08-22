@@ -74,7 +74,8 @@
      */
 
     /* font-family */
-    --ff-poppins: 'Poppins', sans-serif;
+    --ff-font: 'Quicksand', sans-serif;
+    --ff-src: url('/assets/fonts/quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
 
     /* font-size */
     --fs-1: 24px;
@@ -155,7 +156,13 @@
 
   :focus { outline-color: var(--orange-yellow-crayola); }
 
-  html { font-family: var(--ff-poppins); }
+  html {
+    font-family: var(--ff-font);
+    src: var(--ff-src);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+ }
 
   body { background: var(--smoky-black); }
 
