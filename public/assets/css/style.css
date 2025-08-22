@@ -1080,7 +1080,7 @@
   }
 
   .project-title g {
-    margin-left: 5px;
+    margin-left: 10px;
     color: var(--light-gray-70);
     display: flex;
     align-items: center;
