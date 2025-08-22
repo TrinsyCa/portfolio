@@ -197,7 +197,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://cooltravelistanbul.com" target="_blank">
+              <a href="https://products.cooltravelistanbul.com" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
