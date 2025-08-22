@@ -9,7 +9,7 @@
 
   @include('articles.meta')
 
-  <link rel="stylesheet" href="{{ asset('assets/css/style.min.css') }}?v={{ filemtime(public_path('assets/css/style.min.css')) }}
+  <link rel="stylesheet" href="{{ asset('assets/css/style.min.css') }}?v={{ filemtime(public_path('assets/css/style.min.css')) }}">
 </head>
 
 <body>
