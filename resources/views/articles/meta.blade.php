@@ -9,7 +9,6 @@
 <meta property="og:url" content="trinsy.ca">
 <meta property="og:type" content="article">
 <meta property="og:image" content="{{ asset('assets/images/logo.webp') }}">
-<meta property="card" content="summary_large_image">
 <meta property="og:card" content="summary_large_image">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="article:section" content="Ömer İslamoğlu Portfolio Website">
