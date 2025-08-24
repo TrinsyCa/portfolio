@@ -40,7 +40,7 @@
 
           <div class="title-wrapper">
             <div class="icon-box">
-              <ion-icon name="book-outline"></ion-icon>
+              <ion-icon name="flash-outline"></ion-icon>
             </div>
 
             <h3 class="h3">Experience</h3>
@@ -49,7 +49,19 @@
           <ol class="timeline-list">
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">Co-Founder & Web Developer</h4>
+              <h4 class="h4 timeline-item-title">Full Stack Developer</h4>
+
+              <span>2025 - Present</span>
+
+              <p class="timeline-text">
+                KLE Information Technologies Inc.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Co-Founder</h4>
 
               <span>2024 - Present</span>
 
@@ -61,7 +73,7 @@
 
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">Web Developer</h4>
+              <h4 class="h4 timeline-item-title">Web Developer Intern</h4>
 
               <span>2023 - 2024</span>
 
@@ -97,11 +109,11 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">Laravel</h5>
-                <data value="90">90%</data>
+                <data value="95">95%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 90%;"></div>
+                <div class="skill-progress-fill" style="width: 95%;"></div>
               </div>
 
             </li>
@@ -123,11 +135,24 @@
 
                 <div class="title-wrapper">
                   <h5 class="h5">MySQL</h5>
-                  <data value="95">95%</data>
+                  <data value="100">100%</data>
                 </div>
 
                 <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 95%;"></div>
+                  <div class="skill-progress-fill" style="width: 100%;"></div>
+                </div>
+
+              </li>
+
+              <li class="skills-item">
+
+                <div class="title-wrapper">
+                    <h5 class="h5">Servoy</h5>
+                    <data value="65">65%</data>
+                </div>
+
+                <div class="skill-progress-bg">
+                    <div class="skill-progress-fill" style="width: 65%;"></div>
                 </div>
 
               </li>
@@ -136,11 +161,11 @@
 
                 <div class="title-wrapper">
                   <h5 class="h5">JavaScript</h5>
-                  <data value="80">80%</data>
+                  <data value="85">85%</data>
                 </div>
 
                 <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 80%;"></div>
+                  <div class="skill-progress-fill" style="width: 85%;"></div>
                 </div>
 
               </li>
@@ -174,19 +199,6 @@
               <li class="skills-item">
 
                 <div class="title-wrapper">
-                  <h5 class="h5">Arduino</h5>
-                  <data value="70">70%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 70%;"></div>
-                </div>
-
-              </li>
-
-              <li class="skills-item">
-
-                <div class="title-wrapper">
                   <h5 class="h5">C#</h5>
                   <data value="60">60%</data>
                 </div>
@@ -200,12 +212,25 @@
               <li class="skills-item">
 
                 <div class="title-wrapper">
-                  <h5 class="h5">Java (Mobile App)</h5>
-                  <data value="40">40%</data>
+                  <h5 class="h5">Arduino</h5>
+                  <data value="50">50%</data>
                 </div>
 
                 <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 40%;"></div>
+                  <div class="skill-progress-fill" style="width: 50%;"></div>
+                </div>
+
+              </li>
+
+              <li class="skills-item">
+
+                <div class="title-wrapper">
+                  <h5 class="h5">Java (Mobile App)</h5>
+                  <data value="25">25%</data>
+                </div>
+
+                <div class="skill-progress-bg">
+                  <div class="skill-progress-fill" style="width: 25%;"></div>
                 </div>
 
               </li>
