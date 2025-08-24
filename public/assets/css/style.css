@@ -73,10 +73,6 @@
      * typography
      */
 
-    /* font-family */
-    --ff-font: 'Quicksand', sans-serif;
-    --ff-src: url('/assets/fonts/quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
-
     /* font-size */
     --fs-1: 24px;
     --fs-2: 18px;
@@ -120,6 +116,17 @@
     #RESET
   \*-----------------------------------*/
 
+  @font-face {
+    font-family: 'Quicksand';
+    src: url('/assets/fonts/quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  * {
+    font-family: 'Quicksand', sans-serif;
+  }
+
   *, *::before, *::after {
     margin: 0;
     padding: 0;
@@ -155,14 +162,6 @@
   }
 
   :focus { outline-color: var(--orange-yellow-crayola); }
-
-  html {
-    font-family: var(--ff-font);
-    src: var(--ff-src);
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
- }
 
   body { background: var(--smoky-black); }
 
