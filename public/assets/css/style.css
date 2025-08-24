@@ -74,8 +74,8 @@
      */
 
     /* font-family */
-    --ff-font: 'Quicksand', sans-serif;
-    --ff-src: url('/assets/fonts/quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
+    --ff-font: 'Pangram Sans Rounded', sans-serif;
+    --ff-src: url('/assets/fonts/PPPangramSansRounded-CompactRegular.otf') format('truetype');
 
     /* font-size */
     --fs-1: 24px;
