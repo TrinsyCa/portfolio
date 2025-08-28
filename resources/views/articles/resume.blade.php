@@ -27,7 +27,7 @@
               <span>2023 - 2024</span>
 
               <p class="timeline-text">
-                Information Technology and Software Development
+                Information Technologies and Software Development
               </p>
 
             </li>
