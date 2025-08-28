@@ -292,7 +292,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://sevalsirakaya.com" target="_blank">
+              <a href="https://bevellamakrome.com/" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
