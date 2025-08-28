@@ -13,7 +13,7 @@
         <div class="info-content">
           <h1 class="name" title="Ömer İslamoğlu">Ömer İslamoğlu</h1>
 
-          <p class="title">~&nbsp;&nbsp;&nbsp; Full Stack Developer &nbsp;&nbsp;&nbsp;~</p>
+          <p class="title">Full Stack Developer</p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
