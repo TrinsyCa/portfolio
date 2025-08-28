@@ -10,7 +10,7 @@
 
         <section class="about-text">
           <p>
-            I’m Ömer, a Full Stack Web Developer based in Istanbul, Turkey, with a passion for building robust and intuitive web solutions. Specializing in Laravel, PHP, FilamentPHP, MySQL, JavaScript, and CSS, I create seamless applications tailored for the hotel and tourism sectors, alongside dynamic WordPress sites. I love transforming complex challenges into clean, efficient, and user-friendly designs.
+            I’m Ömer, a Full Stack Web Developer based in Istanbul, Turkey, with a passion for building robust and intuitive web solutions. Specializing in Laravel, PHP, FilamentPHP, Servoy, MySQL, JavaScript and CSS, I create seamless applications tailored for the hotel and tourism sectors, alongside dynamic WordPress sites. I love transforming complex challenges into clean, efficient, and user-friendly designs.
           </p>
 
           <p>
