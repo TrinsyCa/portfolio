@@ -10,11 +10,11 @@
 
         <section class="about-text">
           <p>
-            I’m Ömer, a Full Stack Web Developer based in Istanbul, Turkey, with a passion for building robust and intuitive web solutions. Specializing in Laravel, PHP, FilamentPHP, Servoy, MySQL, JavaScript and CSS, I create seamless applications tailored for the hotel and tourism sectors, alongside dynamic WordPress sites. I love transforming complex challenges into clean, efficient, and user-friendly designs.
+            Hi this is Ömer. I am currently working as a Full Stack Developer at KLE Information Technologies in Turkey.
           </p>
 
           <p>
-            My job is to develop your website or application so that it’s functional, scalable, and visually appealing. I bring a personal touch to every project, ensuring it’s both practical and engaging, with a focus on delivering your vision in the most effective way. With years of experience crafting solutions for businesses, my aim is to elevate your brand through technology and creativity. Let’s build something amazing together!
+            For the past 3 years, I have been passionately developing my skills in web and software development. I particularly focus on applications tailored to the tourism sector and dynamic websites. Using technologies such as PHP, Laravel, Filament, MySQL, JavaScript, Servoy, Docker, CSS, Bootstrap, and C#, I design SEO-friendly, scalable, secure, and user-friendly projects. By emphasizing performance optimization, mobile compatibility, and modern interface designs, I closely follow industry innovations and integrate best practices into my applications.
           </p>
         </section>
 
