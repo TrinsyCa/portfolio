@@ -242,43 +242,49 @@
           <ul class="clients-list has-scrollbar">
 
             <li class="clients-item">
-              <a href="https://cooltravelistanbul.com">
+              <a href="https://cooltravelistanbul.com" target="_blank">
                 <img src="./assets/images/cool-travel-istanbul.webp" alt="Cool Travel Istanbul">
               </a>
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <a href="https://greenpeacehotelalanya.com" target="_blank">
+                <img src="./assets/images/green-peace-hotel.webp" alt="Green Peace Hotel">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#" target="_blank">
                 <img src="./assets/images/logo-1-color.png" alt="client logo">
               </a>
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <a href="#" target="_blank">
                 <img src="./assets/images/logo-2-color.png" alt="client logo">
               </a>
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <a href="#" target="_blank">
                 <img src="./assets/images/logo-3-color.png" alt="client logo">
               </a>
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <a href="#" target="_blank">
                 <img src="./assets/images/logo-4-color.png" alt="client logo">
               </a>
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <a href="#" target="_blank">
                 <img src="./assets/images/logo-5-color.png" alt="client logo">
               </a>
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <a href="#" target="_blank">
                 <img src="./assets/images/logo-6-color.png" alt="client logo">
               </a>
             </li>
