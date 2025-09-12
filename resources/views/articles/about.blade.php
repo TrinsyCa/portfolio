@@ -113,10 +113,10 @@
               <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="60" data-testimonials-avatar>
+                    <img src="./assets/images/avatar-2.png" alt="Jessica miller" width="60" data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title>Daniel lewis</h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Jessica miller</h4>
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
@@ -131,10 +131,10 @@
               <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./assets/images/avatar-2.png" alt="Jessica miller" width="60" data-testimonials-avatar>
+                  <img src="./assets/images/avatar-1.png" alt="Erdinç Ali" width="60" data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title>Jessica miller</h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Erdinç Ali</h4>
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
@@ -240,6 +240,12 @@
           <h3 class="h3 clients-title">Clients</h3>
 
           <ul class="clients-list has-scrollbar">
+
+            <li class="clients-item">
+              <a href="https://cooltravelistanbul.com">
+                <img src="./assets/images/cool-travel-istanbul.webp" alt="Cool Travel Istanbul">
+              </a>
+            </li>
 
             <li class="clients-item">
               <a href="#">
