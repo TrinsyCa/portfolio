@@ -501,6 +501,25 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="github">
+              <a href="https://github.com/TrinsyCa/TikTok-Live-Table-Updater" target="_blank">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/github.webp') }}" alt="Github" loading="lazy" class="project-bg-cover">
+                </figure>
+
+                <h3 class="project-title">TikTok Live Table Updater</h3>
+
+                <p class="project-category">Github</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="github">
               <a href="https://github.com/TrinsyCa/php-router" target="_blank">
 
                 <figure class="project-img">
