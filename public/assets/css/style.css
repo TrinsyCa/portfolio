@@ -1062,6 +1062,7 @@
     filter: blur(10px);
     z-index: 3 !important;
     border-radius: 12px;
+    scale: 1.05;
   }
 
   .project-item > a:hover .project-img { transform: scale(1.1); }
