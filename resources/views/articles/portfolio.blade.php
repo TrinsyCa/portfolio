@@ -235,6 +235,25 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="https://kokay.net/" target="_blank">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="{{ asset('assets/project-cover/kokay-taxi.webp') }}" alt="Kokay Taxi" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/kokay-taxi.webp') }}" alt="Kokay Taxi" loading="lazy" class="project-bg-cover">
+                </figure>
+
+                <h3 class="project-title">Kokay Taxi</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
               <a href="https://project.trinsy.ca/SpayAI" target="_blank">
 
                 <figure class="project-img">
@@ -292,25 +311,6 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://bevellamakrome.com/" target="_blank">
-
-                <figure class="project-img">
-                  <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline"></ion-icon>
-                  </div>
-
-                  <img src="{{ asset('assets/project-cover/bevella-makrome.webp') }}" alt="Bevella Makrome" loading="lazy">
-                  <img src="{{ asset('assets/project-cover/bevella-makrome.webp') }}" alt="Bevella Makrome" loading="lazy" class="project-bg-cover">
-                </figure>
-
-                <h3 class="project-title">Bevella Makrome</h3>
-
-                <p class="project-category">Web development</p>
-
-              </a>
-            </li>
-
-            <li class="project-item  active" data-filter-item data-category="web development">
               <a href="https://tour.cooltravelistanbul.com/905301267153" target="_blank">
 
                 <figure class="project-img">
@@ -323,6 +323,25 @@
                 </figure>
 
                 <h3 class="project-title">WhatsApp Linker</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="https://bevellamakrome.com/" target="_blank">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="{{ asset('assets/project-cover/bevella-makrome.webp') }}" alt="Bevella Makrome" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/bevella-makrome.webp') }}" alt="Bevella Makrome" loading="lazy" class="project-bg-cover">
+                </figure>
+
+                <h3 class="project-title">Bevella Makrome</h3>
 
                 <p class="project-category">Web development</p>
 
