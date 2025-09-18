@@ -148,11 +148,11 @@
 
                 <div class="title-wrapper">
                     <h5 class="h5">Servoy</h5>
-                    <data value="65">65%</data>
+                    <data value="70">70%</data>
                 </div>
 
                 <div class="skill-progress-bg">
-                    <div class="skill-progress-fill" style="width: 65%;"></div>
+                    <div class="skill-progress-fill" style="width: 70%;"></div>
                 </div>
 
               </li>
