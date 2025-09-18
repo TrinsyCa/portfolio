@@ -252,11 +252,11 @@
 
                 <div class="title-wrapper">
                   <h5 class="h5">C#</h5>
-                  <data value="60">60%</data>
+                  <data value="50">50%</data>
                 </div>
 
                 <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 60%;"></div>
+                  <div class="skill-progress-fill" style="width: 50%;"></div>
                 </div>
 
               </li>
@@ -265,11 +265,11 @@
 
                 <div class="title-wrapper">
                   <h5 class="h5">Arduino</h5>
-                  <data value="50">50%</data>
+                  <data value="40">40%</data>
                 </div>
 
                 <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 50%;"></div>
+                  <div class="skill-progress-fill" style="width: 40%;"></div>
                 </div>
 
               </li>
