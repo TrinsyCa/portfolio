@@ -94,31 +94,31 @@
 
             <li class="social-item">
             <a href="https://instagram.com/trinsyca" target="_blank" class="social-link">
-              <ion-icon name="logo-instagram"></ion-icon>
+              <ion-icon name="logo-instagram" title="Instagram Profile"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
             <a href="https://linkedin/in/trinsyca" target="_blank" class="social-link">
-              <ion-icon name="logo-linkedin"></ion-icon>
+              <ion-icon name="logo-linkedin" title="LinkedIn Profile"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
             <a href="https://github.com/trinsyca" target="_blank" class="social-link">
-              <ion-icon name="logo-github"></ion-icon>
+              <ion-icon name="logo-github" title="Github Profile"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
             <a href="https://x.com/trinsyca" target="_blank" class="social-link">
-              <ion-icon name="logo-twitter"></ion-icon>
+              <ion-icon name="logo-twitter" title="Twitter Profile"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
             <a href="https://dc.gg/trinsyca" target="_blank" class="social-link">
-              <ion-icon name="logo-discord"></ion-icon>
+              <ion-icon name="logo-discord" title="Discord Server"></ion-icon>
             </a>
           </li>
 
