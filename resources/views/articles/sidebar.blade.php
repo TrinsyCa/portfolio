@@ -43,7 +43,7 @@
             </div>
 
           </li>
-
+{{--
           <li class="contact-item" role="button" onclick="this.querySelector('.contact-link').click()">
 
             <div class="icon-box">
@@ -53,11 +53,11 @@
             <div class="contact-info">
               <p class="contact-title">Phone</p>
 
-              <a href="https://wa.me/905396159353" class="contact-link">+90 (539) 126 71 53</a>
+              <a href="https://wa.me/905555555555" class="contact-link">+90 (555) 555 55 55</a>
             </div>
 
           </li>
-
+ --}}
           <li class="contact-item" role="button">
 
             <div class="icon-box">
