@@ -216,6 +216,25 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="https://dgko-kurnaztavsan.netlify.app" target="_blank">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="{{ asset('assets/project-cover/dgko-yenge.webp') }}" alt="İyiki Doğdun Yenge" loading="lazy">
+                  <img src="{{ asset('assets/project-cover/dgko-yenge.webp') }}" alt="İyiki Doğdun Yenge" loading="lazy" class="project-bg-cover">
+                </figure>
+
+                <h3 class="project-title">Happy Birthday</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
               <a href="https://istanbulcitytours.us/" target="_blank">
 
                 <figure class="project-img">
